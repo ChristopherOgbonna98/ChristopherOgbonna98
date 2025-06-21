@@ -1,10 +1,10 @@
-<h1>Hi, Christopher! <br/><a href="https://github.com/ChristopherOgbonna98">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/christopher-ogbonna-7445a3330/">Cybersecurity-Focused</a>
+<h1>Hi, I'm Christopher Ogbonna! <br/><a href="https://github.com/ChristopherOgbonna98">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/christopher-ogbonna-7445a3330/">Cybersecurity-Focused</a>
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Microsoft Azure</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
