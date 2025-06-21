@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher Ogbonna! <br/><a href="https://github.com/ChristopherOgbonna98">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/christopher-ogbonna-7445a3330/">Cybersecurity-Focused</a>
+<h1>Hi, I'm Christopher Ogbonna! <br/><a href="https://github.com/ChristopherOgbonna98">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/christopher-ogbonna-7445a3330/">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
